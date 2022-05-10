@@ -12,3 +12,28 @@ Header2
 Header3 "Scoreboard"
 
 Scoreboard in a table
+
+CSS
+
+body in a white box with gradient border, bottom left white
+EVERYTHING IS CENTERED
+
+Header1: Black, Times New Roman
+
+image size: 350x356
+
+Buttons:
+font sans-serif, black
+flip button:blue gradient, bottom left white
+clear butoon: orange, bottom left white
+buttons in a thin, black border box
+
+"Let's Get Rolling!" font: serif, orange, same size as Header
+
+break
+
+Scoreboard header: slightly smaller than the let's get rolling font, black serif
+
+Table: font matches their header, but smaller.
+Table borders are thin, orange double lines.
+Font centered in their boxes
