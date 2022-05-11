@@ -5,3 +5,7 @@ Emmet suggestions
 outline:
 
 put javascript last so it loads last, after the style and html, keeps it from erroring out
+
+randomize a number
+math.random()>0.5
+    ^ puts 

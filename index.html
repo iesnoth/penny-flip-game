@@ -10,11 +10,11 @@
 <body>
     <div id="game-area">
 <h1>Penny Flip Game</h1>
-    <img alt="heads" src="assets/images/head.png">
+    <img id="head-img" alt="heads" src="assets/images/head.png">
 <div id="buttons">
     <button id="flip">Flip the Penny!</button><button id="clear">Clear Scoreboard</button>
 </div>
-    <h2>Let's Get Rolling!</h2>
+    <h2 id="outcome-header">Let's Get Rolling!</h2>
     <hr></hr>
     <h3>Scoreboard</h3>
 
@@ -26,10 +26,10 @@
           <th>Percentage Tails</th>
         </tr>
         <tr>
-          <td>0</td>
-          <td>0%</td>
-          <td>0</td>
-          <td>0%</td>
+          <td id="number-heads">0</td>
+          <td id="percent-heads">0%</td>
+          <td id="number-tails">0</td>
+          <td id="percent-tails">0%</td>
         </tr>
       </table>
     </div>
